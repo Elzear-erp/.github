@@ -30,8 +30,8 @@ consultable sans compte :
   démarrage de la démonstration officielle ;
 - ce document.
 
-**Contact** : [contact@elzeard.fr](mailto:contact@elzeard.fr) — recommandation privée,
-clients choisis.
+**Contact** : recommandation privée, clients choisis — nom et domaine officiels pas
+encore arrêtés ; en attendant, via la personne qui vous a orienté ici.
 
 ---
 
@@ -52,5 +52,5 @@ invoices, and data — not an open-source project. What's visible without an acc
   guide for the official demo;
 - this document.
 
-**Contact**: [contact@elzeard.fr](mailto:contact@elzeard.fr) — private referral,
-selected clients.
+**Contact**: private referral, selected clients — official name and domain not
+settled yet; in the meantime, through whoever pointed you here.
