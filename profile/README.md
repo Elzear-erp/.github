@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://elzear-erp.github.io/favicon.svg" width="56" height="56" alt="Elz">
+
 # Elz
 
 **Sovereign management software for French SMEs.**
@@ -26,8 +28,10 @@ des données par société cliente.
 par construction : ils portent le code d'un produit qui manipule des devis, des
 factures et des données clients réelles — pas un projet open source. Ce qui reste
 consultable sans compte :
-- le [site public](https://elzear-erp.github.io) — présentation, et le guide de
-  démarrage de la démonstration officielle ;
+- le [site public](https://elzear-erp.github.io) — présentation, les verticales
+  [BTP](https://elzear-erp.github.io/btp/) et [Transit](https://elzear-erp.github.io/transit/),
+  le guide de démarrage de la démonstration officielle, et les
+  [mentions légales](https://elzear-erp.github.io/mentions-legales/) ;
 - ce document.
 
 **Contact** : recommandation privée, clients choisis — nom et domaine officiels pas
@@ -48,8 +52,10 @@ a single tool, mobile-first by design.
 **Why this organization looks empty.** Repos under `Elzear-erp/*` are private by
 construction: they carry the code of a product that handles real customer quotes,
 invoices, and data — not an open-source project. What's visible without an account:
-- the [public site](https://elzear-erp.github.io) — an overview, and the quick-start
-  guide for the official demo;
+- the [public site](https://elzear-erp.github.io) — an overview, the
+  [construction](https://elzear-erp.github.io/en/btp/) and
+  [transit](https://elzear-erp.github.io/en/transit/) verticals, the quick-start guide
+  for the official demo, and the [legal notice](https://elzear-erp.github.io/en/mentions-legales/);
 - this document.
 
 **Contact**: private referral, selected clients — official name and domain not
