@@ -25,8 +25,10 @@ dans la boucle de production (modèles Mistral ouverts, auto-hébergés), isolem
 des données par société cliente.
 
 **Pourquoi cette organisation semble vide.** Les dépôts sous `Elzear-erp/*` sont privés
-par construction : ils portent le code d'un produit qui manipule des devis, des
-factures et des données clients réelles — pas un projet open source. Ce qui reste
+par construction, pour deux raisons selon le dépôt : le produit lui-même manipule des
+devis, des factures et des données clients réelles ; les dépôts d'exploration
+(`pocs/`) restent privés parce que ce sont des carrières d'extraction jetables, pas des
+démonstrations finies. Dans les deux cas, pas un projet open source. Ce qui reste
 consultable sans compte :
 - le [site public](https://elzear-erp.github.io) — présentation, les verticales
   [BTP](https://elzear-erp.github.io/btp/) et [Transit](https://elzear-erp.github.io/transit/),
@@ -50,8 +52,10 @@ a single tool, mobile-first by design.
 (open Mistral models, self-hosted), strict per-client data isolation.
 
 **Why this organization looks empty.** Repos under `Elzear-erp/*` are private by
-construction: they carry the code of a product that handles real customer quotes,
-invoices, and data — not an open-source project. What's visible without an account:
+construction, for one of two reasons depending on the repo: the product itself handles
+real customer quotes, invoices, and data; the exploration repos (`pocs/`) stay private
+because they're disposable extraction quarries, not finished demos. Either way, not an
+open-source project. What's visible without an account:
 - the [public site](https://elzear-erp.github.io) — an overview, the
   [construction](https://elzear-erp.github.io/en/btp/) and
   [transit](https://elzear-erp.github.io/en/transit/) verticals, the quick-start guide
